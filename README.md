@@ -4,6 +4,8 @@
 
  <img width="415" alt="スクリーンショット 2020-04-26 8 18 52" src="https://user-images.githubusercontent.com/53788311/80293261-f7c6c880-8798-11ea-9bf3-a381eeeb7703.png">
 
+ <img width="419" alt="スクリーンショット 2020-04-26 8 20 41" src="https://user-images.githubusercontent.com/53788311/80293309-46746280-8799-11ea-84bc-d1ff7e8f520e.png">
+
 
 ## Getting Started
 

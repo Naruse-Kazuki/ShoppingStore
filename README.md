@@ -1,6 +1,6 @@
-# shoppingstore
+# ShoppingStore
 
- Cupertino Design Shopping Store.
+ CupertinoDesign shopping store.
 
  <img width="415" alt="スクリーンショット 2020-04-26 8 18 52" src="https://user-images.githubusercontent.com/53788311/80293261-f7c6c880-8798-11ea-9bf3-a381eeeb7703.png">
 
